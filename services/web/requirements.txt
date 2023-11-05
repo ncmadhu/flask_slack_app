@@ -1,0 +1,7 @@
+google-cloud-pubsub
+python-dotenv
+psycopg2
+paramiko
+google-cloud-storage
+hvac
+flask
