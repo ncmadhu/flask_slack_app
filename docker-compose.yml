@@ -18,5 +18,5 @@ services:
       - postgres_data:/var/lib/postgresql/data/
     environment:
       - POSTGRES_USER=slack_app_admin
-      - POSTGRES_PASSWORD=appadminslack
-      - POSTGRES_DB=slack-app-data
+      - POSTGRES_PASSWORD=slack_app_admin
+      - POSTGRES_DB=slack-app
