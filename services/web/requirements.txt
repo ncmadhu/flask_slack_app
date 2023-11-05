@@ -1,7 +1,8 @@
+flask
+Flask-SQLAlchemy
 google-cloud-pubsub
 python-dotenv
-psycopg2
+psycopg2-binary
 paramiko
 google-cloud-storage
 hvac
-flask
